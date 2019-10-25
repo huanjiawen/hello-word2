@@ -3,5 +3,5 @@ void main()
 {
   printf("hello world\n");
   return 0;
-  /* 黄 */
+  /* 黄 xxx */
 }
